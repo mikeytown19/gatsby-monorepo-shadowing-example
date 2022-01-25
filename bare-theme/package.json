@@ -1,0 +1,22 @@
+{
+  "name": "bare-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^4.6.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}

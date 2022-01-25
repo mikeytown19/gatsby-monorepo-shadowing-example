@@ -1,0 +1,6 @@
+.cache
+public
+node_modules
+
+shadow-theme/node_modules
+bare-theme/node_modules
