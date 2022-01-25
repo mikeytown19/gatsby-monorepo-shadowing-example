@@ -3,16 +3,16 @@
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone git@github.com:mikeytown19/gatsby-monorepo-shadowing-example.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd gatsby-monorepo-shadowing-example
 ```
 
-Install dependencies
+Install dependencies / run project
 
 ```bash
   yarn && yarn build
